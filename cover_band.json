@@ -1,0 +1,66 @@
+//artist(s), title, music genre(s), and year the song was released.
+//genre should be an array 
+
+[
+	{
+		"artist" : "Frank Ocean",
+		"title" : "Novacane",
+		"music genre(s)" : ["Contemporary","R&B","Hip-Hop","Rap"],
+		"song release year" : "2011"
+	},
+	{
+		"artist" : "Rihanna",
+		"title" : "Diamonds",
+		"music genre(s)" : ["Pop"],
+		"song release year" : "2012"
+	},
+	{
+		"artist" : "Samm Henshaw and ft. EarthGang",
+		"title" : "Church",
+		"music genre(s)" : ["R&B","Soul"],
+		"song release year" : "2019"
+	},
+	{
+		"artist" : "Frank Ocean",
+		"title" : "Thinkin Bout You",
+		"music genre(s)" : ["Contemporary R&B","Pop","Neo Soul"],
+		"song release year" : "2013"
+	},
+	{
+		"artist" : "Pink Sweats",
+		"title" : "Honesty",
+		"music genre(s)" : ["R&B","Soul"],
+		"song release year" : "2018"
+	},
+	{
+		"artist" : "Rihanna",
+		"title" : "Rude Boy",
+		"music genre(s)" : ["Pop"],
+		"song release year" : "2009"
+	},
+	{
+		"artist" : "Melii and ft.Odalys",
+		"title" : "Copy",
+		"music genre(s)" : ["R&B","Soul"],
+		"song release year" : "2019"
+	},
+	{
+		"artist" : "Mayra Andrade",
+		"title" : "Afeto",
+		"music genre(s)" : ["World music"],
+		"song release year" : "2018"
+	},
+	{
+		"artist" : "Ayoni",
+		"title" : "Divine",
+		"music genre(s)" : ["Pop"],
+		"song release year" : "2019"
+	},
+	{
+		"artist" : "Jessie Reyez",
+		"title" : "No Sweat",
+		"music genre(s)" : ["R&B","Soul"],
+		"song release year" : "2020"
+	}
+
+]
