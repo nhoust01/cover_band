@@ -1,6 +1,3 @@
-//artist(s), title, music genre(s), and year the song was released.
-//genre should be an array 
-
 [
 	{
 		"artist" : "Frank Ocean",
